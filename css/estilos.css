@@ -37,3 +37,7 @@ body{
     padding: 12px;
     text-align: center;
 }
+p img{
+    width: 100%;
+    height: auto;
+}
